@@ -1,4 +1,4 @@
-# Data Science Internship Portfolio
+# Data Science Internship Skybrisk
 
 ## 👨‍💻 Simhadri Kondapally
 
